@@ -4,7 +4,7 @@
 
 ## 1. Verantwortlicher
 Andreas Schönberger, Dresden, Deutschland
-Kontakt: andy.lpyt@gmail.com
+Kontakt: schoenbergerandreas7@gmail.com
 
 ## 2. Welche Daten wir erheben
 - **E-Mail-Adresse** – bei Anmeldung über Google Sign-In
