@@ -23,10 +23,10 @@ Wir geben deine Daten nicht an Dritte weiter. Wir nutzen Google Firebase zur Dat
 Deine Daten werden in Google Firebase gespeichert und nur so lange aufbewahrt wie du die App nutzt. Du kannst deine Daten jederzeit in der App unter Einstellungen löschen.
 
 ## 6. Deine Rechte (DSGVO)
-Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung deiner Daten. Kontaktiere uns unter andy.lpyt@gmail.com
+Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung deiner Daten. Kontaktiere uns unter schoenbergerandreas7@gmail.com
 
 ## 7. Kinder
-Die App richtet sich nicht an Kinder unter 13 Jahren.
+Die App richtet sich an alle Altersgruppen. 
 
 ## 8. Kontakt
 Bei Fragen zur Datenschutzerklärung: schoenbergerandreas7@gmail.com
