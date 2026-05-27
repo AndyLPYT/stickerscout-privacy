@@ -29,4 +29,4 @@ Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung deine
 Die App richtet sich nicht an Kinder unter 13 Jahren.
 
 ## 8. Kontakt
-Bei Fragen zur Datenschutzerklärung: andy.lpyt@gmail.com
+Bei Fragen zur Datenschutzerklärung: schoenbergerandreas7@gmail.com
